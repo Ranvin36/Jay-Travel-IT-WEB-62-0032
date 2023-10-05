@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-image: url(Images/Images/main.jpg);
+    height: 100vh;
+}
+
+.nav-styles{
+    background-color: #000;
+}
+
+.navbar-nav .nav-link{
+    color: #fff;
+}
+
+.navbar-brand a{
+    text-decoration: none;
+}
+.navbar-brand h1{
+    color: #F16536;
+}
+
+.heading{
+    color: #F16536;
+}
+
+.destinations img{
+    object-fit: cover;
+    width: 230px;
+    height: 200px;
+}
+
+.destinations h5{
+    font-weight: 400;
+    font-size: 22px;
+}
+.team-description{
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.leaders-details{
+    padding: 0 50px;
+}
+
+.leaders-details img{
+    width: 300px;
+    object-fit: cover;
+}
+
+
+.section-cover{
+    background-color: #022332;
+    width: 100%;
+    justify-content: center;
+    padding: 70px 40px;
+    margin: 40px 0;
+}
+
+
+.section-primary{
+    font-size: 23px;
+    font-weight:300;
+    color: #fff;
+}
+
+.section-text{
+    font-size: 40px;
+    color: #F16536;
+}
+.overhead{
+    width: 100%;
+}
+.card-cover{
+    width: 100%;
+}
+
+.carding{
+    border: 1px solid #e9e9f5;
+    border-bottom: 3px solid #6C90CA;
+}
+
+.travellers-description{
+    font-size: 19px;
+    font-weight:700;
+}
+
+
+
+.card-details h4{
+    color: #6C90CA;
+}
+
+.form-check-input{
+    margin: 0px 10px;
+}
+
+.error{
+    color: red;
+    text-align: left;
+}
+
+.footer{
+    width: 100%;
+    overflow: hidden;
+    background-color: #032630;
+    padding: 20px;
+}
+
+
+.mobile{
+    color: #fff;
+}
+
+.col ul{
+    list-style: none;
+}
+
+.footer h5{
+    color: #fff;
+}
+
+.col ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.copyrights{
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.copyrights h5{
+    color: #fff;
+    font-weight: 400;
+}
+
+.active{
+    color: orangered !important;
+}
+
+.nav-link:hover{
+    color: orangered !important;
+}
+.success{
+    color: green;
+}
